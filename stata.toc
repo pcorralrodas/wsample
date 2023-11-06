@@ -1,0 +1,13 @@
+*! v 1           <06Nov2023>
+v 1
+d Materials by Paul Andres Corral Rodas
+d The World Bank
+d pcorralrodas@worldbank.org
+
+d wsample installation
+d 
+h
+p wsample      (Ado)    Draws weighted random samples of the data in memory. It is useful for simulations where specific population targets are to be met.        
+h
+d 
+e
