@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: wsample
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Paul
+    name-particle: A.
+    family-names: Corral
+    email: pcorralrodas@worldbank.org
+    affiliation: World Bank
+repository-code: 'https://github.com/pcorralrodas/wsample'
+abstract: >-
+  Stata ado to draw weighted random samples of the data in
+  memory. It is useful for simulations where specific
+  population targets are to be met. 
+version: v1.0.0-beta
+date-released: '2023-11-06'
